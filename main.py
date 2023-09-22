@@ -74,4 +74,3 @@ while True:
 video.release()
 
 clean_thread.start()
-
